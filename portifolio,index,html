@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="portifolio.css">
+</head>
+
+<body>
+    <header class="cabecalho"></header>
+    <nav class="cabecalho-links">
+        <a class="cabecalho-links-links" href="https://">home</a>
+        <a class="cabecalho-links-links" href="https://">sobre mim</a>
+    </nav>
+    </header>
+
+
+    <main class="container">
+        <section class="container-textos">
+            <h1>Eleve seu negócio digital a outro nível com</h1>
+            <h4> Olá! Sou Vanderson de Andrade, desenvolvedora Front-end com especialidade em React, HTML e CSS. Ajudo
+                pequenos
+                negócios e designers a colocarem em prática boas ideias. Vamos conversar?</h4>
+            <a href="https://www.linkedin.com/in/vanderson-andrade/" target="_blank">linkdin</a>
+            <a href="https://github.com/VandersonAndrade" target="_blank">github</a>
+        </section>
+        <img src="Imagem.jpg" alt="foto">
+    </main>
+    <footer>
+        <p>Desenvolvimento por img</p>
+    </footer>
+
+</body>
+
+</html>
